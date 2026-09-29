@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Loop – Habit Tracker</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<main>
+  <header>
+    <h1>Loop</h1>
+    <p class="tag">Small habits, tracked daily.</p>
+  </header>
+
+  <form id="add-form">
+    <input type="text" id="habit-name" placeholder="Add a habit, e.g. Read 20 pages" required maxlength="60">
+    <button type="submit">Add</button>
+  </form>
+
+  <section id="empty" hidden>
+    <p>No habits yet. Add one above to start your first streak.</p>
+  </section>
+
+  <ul id="habit-list"></ul>
+</main>
+<script src="script.js"></script>
+</body>
+</html>
