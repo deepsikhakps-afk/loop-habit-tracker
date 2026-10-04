@@ -38,7 +38,7 @@ loop-habit-tracker/
 - Toggling today's checkbox adds or removes today's date from that array.
 - The streak is computed by walking backward from today (or yesterday, if today isn't checked yet) counting consecutive days present in the array.
 - Everything is saved to `localStorage`, so habits persist across browser sessions on the same device.
-
+ ##
 ## Possible Improvements
 
 - Weekly/monthly calendar view per habit
