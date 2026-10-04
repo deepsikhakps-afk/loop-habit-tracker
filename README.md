@@ -47,7 +47,7 @@ loop-habit-tracker/
 
 ## Author
 
-Your Name – MCA, Chandigarh University
+Deepshikha - MCA, Chandigarh University
 
 ## License
 
