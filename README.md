@@ -35,7 +35,7 @@ loop-habit-tracker/
 ## How It Works
 
 - Each habit stores an array of completion dates (`YYYY-MM-DD`).
-- Toggling today's checkbox adds or removes today's that array.
+- Toggling today's checkbox adds or removes today's date from that array.
 - The streak is computed by walking backward from today (or yesterday, if today isn't checked yet) counting consecutive days present in the array.
 - Everything is saved to `localStorage`, so habits persist across browser sessions on the same device.
 ## Screenshots
