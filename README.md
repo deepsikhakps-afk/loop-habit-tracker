@@ -44,7 +44,7 @@ loop-habit-tracker/
 
 - Weekly/monthly calendar view per habit
 - Habit categories and reminders
-- Export/import habit data as 
+- Export/import habit data as JSON
 
 ## Author
 
