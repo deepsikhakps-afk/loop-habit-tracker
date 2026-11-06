@@ -36,7 +36,7 @@ loop-habit-tracker/
 
 - Each habit stores an array of completion dates (`YYYY-MM-DD`).
 - Toggling today walking backward from today (or yesterday, if today isn't checked yet) counting consecutive days present in the array.
-- Everything is saved to `localStorage`, so habits persist across browser sessions on the same device.
+- Everything is saved to `localStorage`, so habits st across browser sessions on the same device.
 ## Screenshots
 ![alt text](image.png)
 
